@@ -15,7 +15,6 @@ Coded by DiabloAkar
 
 1. `Api bulmanız.`
 
--  [Tıkla](https://capmonster.cloud/en/?gclid=CjwKCAjw9uKIBhA8EiwAYPUS3NReb0ErmMhVc1vCHlTjG0k0I0FnmVIllGDKPkegzfBOWxrRiENDBxoCq4IQAvD_BwE) Sayfasına gidin.
 -  Yapamazsanız discord'dan bize ulaşın 
 
 
