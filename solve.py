@@ -5,7 +5,7 @@ from pip._vendor.colorama import Fore
 import subprocess
 'import layn'
 
-subprocess.call('start https://discord.gg/akargang', shell=True)
+subprocess.call('start https://discord.gg/DDcXf472BF', shell=True)
 subprocess.call('start https://github.com/DiabloAkar', shell=True)
 
 bammer = '''
