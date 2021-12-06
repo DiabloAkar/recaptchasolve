@@ -5,7 +5,7 @@ Coded by DiabloAkar
 
 ## Giriş:
 
-- [AkarGang Discord](https://discord.gg/DDcXf472BF) Sayfasına gidin
+- [AkarGang Discord](https://discord.gg/6zWuHBmxvX) Sayfasına gidin
 -  **"Herhangi bir sorun olursa bize ulaş"** 
 -  **"AkarGang Developers"**
 
